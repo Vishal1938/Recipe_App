@@ -1,0 +1,18 @@
+.home{
+    background-image: url("https://mytheme.io/recipes/wp-content/uploads/2014/04/1011-1-1140x500.jpg");
+    height: 500px;
+    width:1000px;
+    margin:0px auto;
+   
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+body{
+    background-image: url("https://media.istockphoto.com/id/1407063872/vector/modern-abstract-background-with-black-gradient-abstract-black-business-background.jpg?s=612x612&w=0&k=20&c=6QftyGArm3LTpQsLw29DpZ9ZB42HMNK-wboAWyFZvto=");
+    background-repeat:repeat-y;
+    background-size: cover;
+}

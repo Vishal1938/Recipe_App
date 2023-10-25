@@ -1,0 +1,12 @@
+.List{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:20px;
+}
+
+h2{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    color: antiquewhite;
+}

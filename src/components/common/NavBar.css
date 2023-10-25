@@ -1,0 +1,33 @@
+.NavBar{
+    height: 100px;
+    
+    display: flex;
+}
+
+.Icon{
+    width:30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px
+}
+.menus{
+    width:70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px
+}
+
+
+h3{
+    
+    color: aliceblue;
+    text-decoration-line: none;
+}
+
+#logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
